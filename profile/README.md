@@ -1,0 +1,1 @@
+![inkbox-ai header](/static/images/inkbox-github-banner.png)
